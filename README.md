@@ -3,10 +3,13 @@
 # I'm **Chetan Dongare**  
 
 # 💼 Software Developer Intern at [Findability Sciences](https://www.findability.ai/en) 
-
 a passionate **Software Developer** and **Tech Explorer** always on the lookout for innovative solutions and exciting challenges. I love diving into code, experimenting with new technologies, and building impactful projects that push the boundaries of what's possible.  
 
 💡 **"Code. Create. Conquer."**  
+
+
+---
+# If you want to check out my projects/repositories, you can go directly down below 👇.
 
 ---
 
